@@ -29,6 +29,7 @@ Other Tools I Use:
 - Vim
 - Visual Studio Code
 - Linux
+- Leetcode | 150 questions | [Leetcode Profile](https://leetcode.com/u/codywakeford/)
 
 ### Concepts
 I have spent a lot of time understanding the habits of good programmers, critical thinkers and problem solvers in hopes of refining those skills myself.
