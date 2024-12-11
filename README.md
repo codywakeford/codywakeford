@@ -11,7 +11,8 @@ I'm a passionate developer from England. I've always loved technology. I built m
 I'm proficient in:
 - HTML
 - CSS
-- Javascript
+- JavaScript
+- TypeScript
 - Vue
 - Nuxt
 - Firebase
