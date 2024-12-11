@@ -20,7 +20,9 @@ I'm proficient in:
 I have dabbled in:
 - C++
 - Python
-- SQL Databases 
+- SQL Databases
+- React
+  
 
 Other Tools I Use:
 - Docker
