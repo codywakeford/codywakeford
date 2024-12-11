@@ -37,16 +37,20 @@ I'm also spending a lot of time learning higher maths, partly because I find it 
 
 ## Here is an overview of my best projects:
 
-Online Multiplayer Hex Chess | Nuxt, Nitro, Typescript, Firebase, Figma
+#### Online Multiplayer Hex Chess | Nuxt, Nitro, Typescript, Firebase, Figma
+
 https://github.com/user-attachments/assets/88b27fe8-9b28-4233-ad23-c6eea153e764
 
-Gravity and Collision Simulation v1 | C++, SFML
+#### Gravity and Collision Simulation v1 | C++, SFML
+
 https://github.com/user-attachments/assets/487a0a34-3efb-4875-b9d6-fe94e9f737b3
 
-Freelancer Portfolio | Nuxt, TypeScript, Firebase, Nitro, Figma
+#### Freelancer Portfolio | Nuxt, TypeScript, Firebase, Nitro, Figma
+
 https://github.com/user-attachments/assets/292d90f9-a20a-494b-85f4-0d78fc8fd262
 
-Skyguyard Roofing Website | Nuxt, TypeScript, Firebase, Nitro, Figma
+####Skyguyard Roofing Website | Nuxt, TypeScript, Firebase, Nitro, Figma
+
 https://github.com/user-attachments/assets/1bdd60fb-98da-4ad4-9385-5696ee26905c
 
 
