@@ -40,14 +40,17 @@ I'm also spending a lot of time learning higher maths, partly because I find it 
 https://github.com/user-attachments/assets/88b27fe8-9b28-4233-ad23-c6eea153e764
 
 
-Uploading 2024-12-06 17-02-45.mp4…
+
+
+https://github.com/user-attachments/assets/487a0a34-3efb-4875-b9d6-fe94e9f737b3
+
+
 
 
 
 https://github.com/user-attachments/assets/292d90f9-a20a-494b-85f4-0d78fc8fd262
 
 
-Uploading 2024-12-11 12-28-07.mp4…
 
 
 https://github.com/user-attachments/assets/1bdd60fb-98da-4ad4-9385-5696ee26905c
