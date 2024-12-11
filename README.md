@@ -28,4 +28,4 @@ Other Tools I Use:
 - Visual Studio Code
 - Linux
 
-## Here are some of my projects:
+## Here is an overview of my best projects:
