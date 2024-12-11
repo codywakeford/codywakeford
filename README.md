@@ -23,11 +23,15 @@ I have dabbled in:
 - SQL Databases
 - React
   
-
 Other Tools I Use:
 - Docker
 - Vim
 - Visual Studio Code
 - Linux
+
+### Concepts
+I have spent a lot of time understanding the habits of good programmers, critical thinkers and problem solvers in hopes of refining those skills myself.
+Data structures, algorithms, code time and space complexity, design patterns, efficient design, maintainability, readability. Different paradims such as OOP, functional programming (my favorite at the moment) or procedural programming. 
+I'm also spending a lot of time learning higher maths, partly because I find it interesting and partly because I think it is extremely powerful in this modern would.
 
 ## Here is an overview of my best projects:
