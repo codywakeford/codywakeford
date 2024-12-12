@@ -46,11 +46,11 @@ https://github.com/user-attachments/assets/88b27fe8-9b28-4233-ad23-c6eea153e764
 
 https://github.com/user-attachments/assets/487a0a34-3efb-4875-b9d6-fe94e9f737b3
 
-#### Freelancer Portfolio | Nuxt, TypeScript, Firebase, Nitro, Figma
+#### Freelancer Portfolio | Nuxt, TypeScript, Firebase, Nitro, Figma | [Live Site](https://codywakeford.com/)
 
 https://github.com/user-attachments/assets/292d90f9-a20a-494b-85f4-0d78fc8fd262
 
-####Skyguyard Roofing Website | Nuxt, TypeScript, Firebase, Nitro, Figma
+####Skyguyard Roofing Website | Nuxt, TypeScript, Firebase, Nitro, Figma | [Live Site](https://skyguardroofing.co.uk/)
 
 https://github.com/user-attachments/assets/1bdd60fb-98da-4ad4-9385-5696ee26905c
 
