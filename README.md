@@ -7,46 +7,35 @@ I'm a passionate developer from England. I've always loved technology. I built m
 - Mobile: 07570 068 765
 - Linkedin: https://www.linkedin.com/in/cody-wakeford-a184a430a/
 
-<h3>Skills</h3>
-<div style="display: flex; justify-content: space-between; gap: 20px;">
-  <div>
-    <h5>Im proficient in:</h5>
-    <ul>
-      <li>HTML</li>
-      <li>CSS</li>
-      <li>JavaScript</li>
-      <li>TypeScript</li>
-      <li>Vue</li>
-      <li>Nuxt</li>
-      <li>Figma</li>
-      <li>Nitro</li>
-      <li>Node.JS</li>
-    </ul>
-  </div>
-  <div>
-    <h5>I'm still learning the ropes of:</h5>
-    <ul>
-      <li>C++</li>
-      <li>Python</li>
-      <li>SQL Databases</li>
-      <li>React</li>
-      <li>Deno 2</li>
-    </ul>
-  </div>
-  <div>
-    <h5>Other Tools I Use:</h5>
-    <ul>
-      <li>Docker</li>
-      <li>Vim</li>
-      <li>Visual Studio Code</li>
-      <li>Linux</li>
-      <li>Leetcode | 150 questions | <a href="https://leetcode.com/u/codywakeford/">Leetcode Profile</a></li>
-      <li>Firebase</li>
-      <li>Heroku</li>
-      <li>Xcode</li>
-    </ul>
-  </div>
-</div>
+### Skills 
+
+##### I am proficient in:
+<img src="https://api.iconify.design/vscode-icons:file-type-html.svg" width="20" height="20"> HTML&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="20" height="20"> CSS&nbsp;&nbsp;
+<img src="https://api.iconify.design/vscode-icons:file-type-js-official.svg" width="20" height="20"> JavaScript&nbsp;&nbsp;
+<img src="https://api.iconify.design/logos:typescript-icon.svg" width="20" height="20"> TypeScript&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="20" height="20"> Vue&nbsp;&nbsp;
+<img src="https://api.iconify.design/vscode-icons:file-type-nuxt.svg" width="20" height="20"> Nuxt&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="20" height="20"> Figma&nbsp;&nbsp;
+<img src="https://api.iconify.design/unjs:nitro.svg" width="20" height="20"> Nitro&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="20" height="20"> Node.js
+
+##### I'm still learning the ropes of:
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="20" height="20"> C++&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20" height="20"> Python&nbsp;&nbsp;
+<img src="https://api.iconify.design/vscode-icons:file-type-mysql.svg" width="20" height="20"> SQL&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="20" height="20"> React&nbsp;&nbsp;
+<img src="https://deno.land/logo.svg" width="20" height="20"> Deno 2
+
+##### Other Tools I Use:
+<img src="https://api.iconify.design/logos:docker-icon.svg" width="20" height="20"> Docker&nbsp;&nbsp;
+<img src="https://api.iconify.design/logos:vim.svg" width="20" height="20"> Vim&nbsp;&nbsp;
+<img src="https://api.iconify.design/logos:visual-studio-code.svg" width="20" height="20"> Visual Studio Code&nbsp;&nbsp;
+<img src="https://api.iconify.design/devicon:linux.svg" width="20" height="20"> Linux&nbsp;&nbsp;
+<img src="https://api.iconify.design/cib:leetcode.svg" width="20" height="20"> Leetcode ~150 questions&nbsp;&nbsp;
+<img src="https://api.iconify.design/logos:firebase.svg" width="20" height="20"> Firebase&nbsp;&nbsp;
+<img src="https://api.iconify.design/skill-icons:heroku.svg" width="20" height="20"> Heroku&nbsp;&nbsp;
+<img src="https://api.iconify.design/logos:xcode.svg" width="20" height="20"> Xcode
 
 ### Concepts
 I have spent a lot of time understanding the habits of good programmers, critical thinkers and problem solvers in hopes of refining those skills myself.
