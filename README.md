@@ -42,7 +42,7 @@ I'm also spending a lot of time learning higher maths, partly because I find it 
 
 https://github.com/user-attachments/assets/88b27fe8-9b28-4233-ad23-c6eea153e764
 
-#### Gravity and Collision Simulation v1 | C++, SFML 
+#### Gravity and Collision Simulation v1 | C++, SFML | [Repo](https://github.com/codywakeford/gravity-sim)
 
 https://github.com/user-attachments/assets/487a0a34-3efb-4875-b9d6-fe94e9f737b3
 
