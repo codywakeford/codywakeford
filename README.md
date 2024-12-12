@@ -9,14 +9,15 @@ I'm a passionate developer from England. I've always loved technology. I built m
 
 ### Skills 
 I'm proficient in:
-![download](https://github.com/user-attachments/assets/e887e3c7-3d8e-490c-bc8a-163dd53b909b)
-![download](https://github.com/user-attachments/assets/08438ff9-6a36-4dd2-bdf8-9ed4a0a4475b)
-![download](https://github.com/user-attachments/assets/f8e2ae79-ede7-4a88-afb0-341f3cab23a9)
-![download](https://github.com/user-attachments/assets/34061e23-83ce-446f-8818-6e691f20481a)
-![download](https://github.com/user-attachments/assets/a6a44ac9-f9de-4301-a3ff-1477b24aad1c)
-![download](https://github.com/user-attachments/assets/62b53d28-7841-40b7-97ec-f4839020892d)
-![download](https://github.com/user-attachments/assets/cee88411-756e-4fe3-9e43-d0905ccf459a)
-![download](https://github.com/user-attachments/assets/752efa48-7e59-4e15-b515-abbb445e0efd)
+<img src="https://github.com/user-attachments/assets/e887e3c7-3d8e-490c-bc8a-163dd53b909b" width="200" />
+<img src="https://github.com/user-attachments/assets/08438ff9-6a36-4dd2-bdf8-9ed4a0a4475b" width="200" />
+<img src="https://github.com/user-attachments/assets/f8e2ae79-ede7-4a88-afb0-341f3cab23a9" width="200" />
+<img src="https://github.com/user-attachments/assets/34061e23-83ce-446f-8818-6e691f20481a" width="200" />
+<img src="https://github.com/user-attachments/assets/a6a44ac9-f9de-4301-a3ff-1477b24aad1c" width="200" />
+<img src="https://github.com/user-attachments/assets/62b53d28-7841-40b7-97ec-f4839020892d" width="200" />
+<img src="https://github.com/user-attachments/assets/cee88411-756e-4fe3-9e43-d0905ccf459a" width="200" />
+<img src="https://github.com/user-attachments/assets/752efa48-7e59-4e15-b515-abbb445e0efd" width="200" />
+
   
 I have dabbled in:
 - C++
