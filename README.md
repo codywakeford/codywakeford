@@ -39,6 +39,7 @@ I'm also spending a lot of time learning higher maths, partly because I find it 
 ## Here is an overview of my best projects:
 
 #### Online Multiplayer Hex Chess | Nuxt, Nitro, Typescript, Firebase, Figma
+[Live Site](https://hex-chess.codywakeford.com/) | [Repo](https://github.com/codywakeford/hex-chess)
 
 https://github.com/user-attachments/assets/88b27fe8-9b28-4233-ad23-c6eea153e764
 
