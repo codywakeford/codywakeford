@@ -8,7 +8,7 @@ I'm a passionate developer from England. I've always loved technology. I built m
 - Linkedin: https://www.linkedin.com/in/cody-wakeford-a184a430a/
 
 ### Skills 
-I'm proficient in:
+###### I'm proficient in:
 <img src="https://github.com/user-attachments/assets/e887e3c7-3d8e-490c-bc8a-163dd53b909b" width="200" />
 <img src="https://github.com/user-attachments/assets/08438ff9-6a36-4dd2-bdf8-9ed4a0a4475b" width="200" />
 <img src="https://github.com/user-attachments/assets/f8e2ae79-ede7-4a88-afb0-341f3cab23a9" width="200" />
@@ -19,13 +19,13 @@ I'm proficient in:
 <img src="https://github.com/user-attachments/assets/752efa48-7e59-4e15-b515-abbb445e0efd" width="200" />
 
   
-I have dabbled in:
+###### Im still learning the ropes of:
 - C++
 - Python
 - SQL Databases
 - React
   
-Other Tools I Use:
+###### Other Tools I Use:
 - Docker
 - Vim
 - Visual Studio Code
