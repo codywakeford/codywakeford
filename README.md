@@ -7,30 +7,46 @@ I'm a passionate developer from England. I've always loved technology. I built m
 - Mobile: 07570 068 765
 - Linkedin: https://www.linkedin.com/in/cody-wakeford-a184a430a/
 
-### Skills 
-###### I'm proficient in:
-<img src="https://github.com/user-attachments/assets/e887e3c7-3d8e-490c-bc8a-163dd53b909b" width="200" />
-<img src="https://github.com/user-attachments/assets/08438ff9-6a36-4dd2-bdf8-9ed4a0a4475b" width="200" />
-<img src="https://github.com/user-attachments/assets/f8e2ae79-ede7-4a88-afb0-341f3cab23a9" width="200" />
-<img src="https://github.com/user-attachments/assets/34061e23-83ce-446f-8818-6e691f20481a" width="200" />
-<img src="https://github.com/user-attachments/assets/a6a44ac9-f9de-4301-a3ff-1477b24aad1c" width="200" />
-<img src="https://github.com/user-attachments/assets/62b53d28-7841-40b7-97ec-f4839020892d" width="200" />
-<img src="https://github.com/user-attachments/assets/cee88411-756e-4fe3-9e43-d0905ccf459a" width="200" />
-<img src="https://github.com/user-attachments/assets/752efa48-7e59-4e15-b515-abbb445e0efd" width="200" />
-
-  
-###### Im still learning the ropes of:
-- C++
-- Python
-- SQL Databases
-- React
-  
-###### Other Tools I Use:
-- Docker
-- Vim
-- Visual Studio Code
-- Linux
-- Leetcode | 150 questions | [Leetcode Profile](https://leetcode.com/u/codywakeford/)
+<h3>Skills</h3>
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+  <div>
+    <h5>Im proficient in:</h5>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      <li>TypeScript</li>
+      <li>Vue</li>
+      <li>Nuxt</li>
+      <li>Figma</li>
+      <li>Nitro</li>
+      <li>Node.JS</li>
+    </ul>
+  </div>
+  <div>
+    <h5>I'm still learning the ropes of:</h5>
+    <ul>
+      <li>C++</li>
+      <li>Python</li>
+      <li>SQL Databases</li>
+      <li>React</li>
+      <li>Deno 2</li>
+    </ul>
+  </div>
+  <div>
+    <h5>Other Tools I Use:</h5>
+    <ul>
+      <li>Docker</li>
+      <li>Vim</li>
+      <li>Visual Studio Code</li>
+      <li>Linux</li>
+      <li>Leetcode | 150 questions | <a href="https://leetcode.com/u/codywakeford/">Leetcode Profile</a></li>
+      <li>Firebase</li>
+      <li>Heroku</li>
+      <li>Xcode</li>
+    </ul>
+  </div>
+</div>
 
 ### Concepts
 I have spent a lot of time understanding the habits of good programmers, critical thinkers and problem solvers in hopes of refining those skills myself.
