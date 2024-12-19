@@ -52,6 +52,13 @@ https://github.com/user-attachments/assets/88b27fe8-9b28-4233-ad23-c6eea153e764
 
 https://github.com/user-attachments/assets/487a0a34-3efb-4875-b9d6-fe94e9f737b3
 
+#### Gravity and Collision Simulation v2 | C++, SFML | [Repo](https://github.com/codywakeford/C-Gravity-Sim-v2)
+I decided to make a version 2 for this project, where I could reorginize and improve on the algorithms used. I managed to get up to 20k particles @60fps with gravity and collisions.
+For the gravity I optimised using the Barnes-Hut method and for the collisions I used a regular grid to reduce collision checks. Excuse the messy code base I am new to c++ and relatively new to OOP.
+I am still tidying up some of the math bugs I created with the optimisations.
+
+https://github.com/user-attachments/assets/b7a5ff3b-f380-456a-8f52-414fe087004c
+
 #### Freelancer Portfolio | Nuxt, TypeScript, Firebase, Nitro, Figma | [Live Site](https://codywakeford.com/)
 My site I use as a freelance website developer. It is actually the third revamp of my portfolio. Unfortunatly I decided to delete the source for the old ones. 
 Though I did design this myself I have to give credits to the design of [The Website Architect](https://thewebsitearchitect.com/) whos website i drew a lot of inspiration from.
