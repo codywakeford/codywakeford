@@ -53,6 +53,8 @@ https://github.com/user-attachments/assets/88b27fe8-9b28-4233-ad23-c6eea153e764
 https://github.com/user-attachments/assets/487a0a34-3efb-4875-b9d6-fe94e9f737b3
 
 #### Freelancer Portfolio | Nuxt, TypeScript, Firebase, Nitro, Figma | [Live Site](https://codywakeford.com/)
+My site I use as a freelance website developer. It is actually the third revamp of my portfolio. Unfortunatly I decided to delete the source for the old ones. 
+Though I did design this myself I have to give credits to the design of [The Website Architect](https://thewebsitearchitect.com/) whos website i drew a lot of inspiration from.
 
 https://github.com/user-attachments/assets/292d90f9-a20a-494b-85f4-0d78fc8fd262
 
@@ -60,6 +62,34 @@ https://github.com/user-attachments/assets/292d90f9-a20a-494b-85f4-0d78fc8fd262
 
 https://github.com/user-attachments/assets/1bdd60fb-98da-4ad4-9385-5696ee26905c
 
+#### YeroOumaArt Online Art Ecommerce Store | Nuxt, Nitro, TypeScript, Firebase, Figma | [Live Site](https://yerooumaart.co.uk/)
+I built this site for an artist who was one of my first real paying clients I build an ecommerce store from the ground up (perhaps not the fastest approach). This included an admin dashboard to show orders add and remove items and so on. 
+There is many problems with this website and quite a few nooby mistakes, I massivly underestimated how long this project would take so there was a few shortcuts taken unfortunately.
+
+https://github.com/user-attachments/assets/cf1ec0a2-b69e-4d0b-8d40-c1d7c7f4aeb9
+
+#### Coffee Shop Website | Vue, JavaScript, Firebase | [Live Site](https://bean-and-brew-e83be.firebaseapp.com/#/)
+This is not my design, I simply copied an image of a website I though looked cool. I was attempting to make myself look established as a freelancer lol. 
+
+https://github.com/user-attachments/assets/bf0e3679-3ca8-4ad1-91ee-0c0f71f7bf29
+
+#### Corperate Website | Nuxt, TypeScript, Firebase | [Live Site](https://codywakeford.com/websites/brainwave)
+Every noob must go through the sliding effect stage of their career. Here is mine. The design of this website was copied 100%. I just looked at an image and copied it in code.
+
+https://github.com/user-attachments/assets/d9c5505c-fd01-4d41-b30d-b6bb1d80d778
+
+#### Veloris Dashboard | Nuxt, Typescript, Firebase, Stripe | [Repo](https://github.com/nova-on-git/site-template-dev-env) [Orginization all these repos are stored in](https://github.com/orgs/nova-on-git/repositories)
+This software is not completed, im not sure it ever will be. 
+
+I found out about nuxt layers and though they could be used to make building websites faster (I thought building a software for my failed web dev startup would be worth the time). 
+The way this works is quite unique. You would start with a "base template" nuxt project which was set up to work with this. This would have an extension to it which gave the dev control over 
+what backend features a client may need. It has a custom dahsboard as a default and a few ways for the admin to change some settings and so on. Using a "veloris.config.ts" file you could specify which other features would be added.
+Such as a blog filter which gave the admins a blog markdown editor in their admin panel. This would expose the blogs to be used by the dev in the new website. This way the devloper would simply have to develop the way any site visitors would find
+the blog and the standard api would provide the data. This can be done with many features. Such as a current user feature which gave a standard way to log in the user, notify admins about events and email them if needed all from a single interface that could 
+be added to any project with ease. The website statistics would be hooked up to the google admin api with a few short steps giving the admin their website stats right from within their website. To name a few other features without going into much detail: newsletter feature, giving admins somewhere to write and providing the api for visitors to sign up;
+an online store, this would give the admin somewhere to add items to their store, look at recent orders and so on. This project is very unfinished which is a shame because I spent months building it. If your looking to see some of my code have a dig through the source files this is my largest project, though the frontend is not polished I had much of the backend working.
+
+https://github.com/user-attachments/assets/aa7c3289-aeb5-4708-9f7d-f90e56864cac
 
 
 
