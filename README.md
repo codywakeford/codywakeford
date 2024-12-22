@@ -99,10 +99,27 @@ https://github.com/user-attachments/assets/22025c9b-0e3d-45f6-b302-177edfce9a39
 
 https://github.com/user-attachments/assets/4544d386-0baa-48c9-8246-29c5d356174e
 
-#### Gourmai AI Recipe Gen | Python Flask, JavaScript, PostgreSQL, Heroku | [Repo](https://github.com/codywakeford/gourmai-mobile) 
+#### Gourmai AI Recipe Gen Mobile App | Cordova, JavaScript, PostgreSQL, Heroku | [Repo](https://github.com/codywakeford/gourmai-mobile)
 
+![image 1](https://cdn.discordapp.com/attachments/1226139030027112448/1233520078159347782/image.png?ex=676923d8&is=6767d258&hm=dc084ae6484cde91d6e239f796be35a5c02345cc52859bc574bb4a0eff1bc13e&)
 
-#### Veloris Dashboard | Nuxt, Typescript, Firebase, Stripe | [Repo](https://github.com/nova-on-git/site-template-dev-env) [Orginization all these repos are stored in](https://github.com/orgs/nova-on-git/repositories)
+![image 6](https://cdn.discordapp.com/attachments/1226139030027112448/1231322003881988116/image.png?ex=67690dba&is=6767bc3a&hm=f6139e9b869b214ac905e9dceb3f556faf82e392e64aae7c3e13f036486857c9&)
+
+![image 7](https://cdn.discordapp.com/attachments/1226139030027112448/1231260896450445393/image.png?ex=6768d4d1&is=67678351&hm=6aa2d6ed215762ff97f307fdaa57a1c69ff0f697750446b3446b66b13f256995&)
+
+![image 8](https://cdn.discordapp.com/attachments/1226139030027112448/1231260614312198276/image.png?ex=6768d48e&is=6767830e&hm=0257d91f2e21aba62e2eec9b327c949701a35870edbe70d0a9c8c495b8fe972f&)
+
+#### AI pong player | Python, TensorFlow, pygame
+Here I attempted to create an ML agent that could play pong. Though the best accuracy I got out of it was about 55% after 20k paddle hits (which is much better than random chance) but is unfortunatly not as good as a human. At some point i'll return to this project and update the reward functions. Unfortunatly I lost this code.
+
+https://github.com/user-attachments/assets/d44310af-cab3-462b-9816-da66cffbd672
+
+https://github.com/user-attachments/assets/2a6e4363-1b9c-4cdd-8d5c-422b83cea0f4
+
+https://github.com/user-attachments/assets/5b746536-45f9-4021-9121-e218b1999824
+
+#### Veloris Dashboard | Nuxt, Typescript, Firebase, Stripe | [Repo](https://github.com/nova-on-git/site-template-dev-env) | [The Github Orginization all these repos are stored in](https://github.com/orgs/nova-on-git/repositories)
+
 This software is not completed, im not sure it ever will be. 
 
 I found out about nuxt layers and though they could be used to make building websites faster (I thought building a software for my failed web dev startup would be worth the time). 
