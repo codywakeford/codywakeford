@@ -21,12 +21,15 @@ I'm a passionate developer from England. I've always loved technology. I built m
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="20" height="20"> Node.js
 
 ##### I'm still learning the ropes of:
+
+
 <img src="https://api.iconify.design/skill-icons:rust.svg" width="20" height="20"> Rust&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="20" height="20"> C++&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20" height="20"> Python&nbsp;&nbsp;
 <img src="https://api.iconify.design/vscode-icons:file-type-mysql.svg" width="20" height="20"> SQL&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="20" height="20"> React&nbsp;&nbsp;
 <img src="https://deno.land/logo.svg" width="20" height="20"> Deno 2
+<img src="https://api.iconify.design/simple-icons:apachecordova.svg" width="20" height="20"> Cordova&nbsp;&nbsp;
 
 ##### Other Tools I Use:
 <img src="https://api.iconify.design/logos:docker-icon.svg" width="20" height="20"> Docker&nbsp;&nbsp;
@@ -131,6 +134,20 @@ be added to any project with ease. The website statistics would be hooked up to 
 an online store, this would give the admin somewhere to add items to their store, look at recent orders and so on. This project is very unfinished which is a shame because I spent months building it. If your looking to see some of my code have a dig through the source files this is my largest project, though the frontend is not polished I had much of the backend working.
 
 https://github.com/user-attachments/assets/aa7c3289-aeb5-4708-9f7d-f90e56864cac
+
+#### Old Portfolio | Vue, Firebase
+This was my second portfolio. I lost the code becuase I was a noob when I made this and diddn't use git.
+
+![image](https://github.com/user-attachments/assets/13791e4b-bede-4952-b146-97a05912f761)
+
+#### Another random website build | Vue
+I did not design this website. I simply copied the design into my own code.
+
+https://github.com/user-attachments/assets/1403124e-0a9c-4697-ab0c-ef579fe3b758
+
+
+
+
 
 
 
