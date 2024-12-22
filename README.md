@@ -21,6 +21,7 @@ I'm a passionate developer from England. I've always loved technology. I built m
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="20" height="20"> Node.js
 
 ##### I'm still learning the ropes of:
+<img src="https://api.iconify.design/skill-icons:rust.svg" width="20" height="20"> Rust&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="20" height="20"> C++&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20" height="20"> Python&nbsp;&nbsp;
 <img src="https://api.iconify.design/vscode-icons:file-type-mysql.svg" width="20" height="20"> SQL&nbsp;&nbsp;
@@ -84,6 +85,22 @@ https://github.com/user-attachments/assets/bf0e3679-3ca8-4ad1-91ee-0c0f71f7bf29
 Every noob must go through the sliding effect stage of their career. Here is mine. The design of this website was copied 100%. I just looked at an image and copied it in code.
 
 https://github.com/user-attachments/assets/d9c5505c-fd01-4d41-b30d-b6bb1d80d778
+
+#### Gourmai AI Recipe Gen | Python Flask, JavaScript, PostgreSQL, Heroku | [Repo](https://github.com/codywakeford/gourmai) 
+Here is my first large web project. Before this I had only created one or two static sites. The idea was to make finding recipes tailored to the user easier. It integrates with openAI for the LLM and image generation. The API in this code base also servers the mobile app (shown below).
+
+https://github.com/user-attachments/assets/9f0fd657-5a3d-46c8-bad8-398678c66a67
+
+https://github.com/user-attachments/assets/d17888de-71c6-4f33-bae1-2c594413f77b
+
+https://github.com/user-attachments/assets/fc49bd38-aba7-4d73-a0ac-29d13e5cc4ba
+
+https://github.com/user-attachments/assets/22025c9b-0e3d-45f6-b302-177edfce9a39
+
+https://github.com/user-attachments/assets/4544d386-0baa-48c9-8246-29c5d356174e
+
+#### Gourmai AI Recipe Gen | Python Flask, JavaScript, PostgreSQL, Heroku | [Repo](https://github.com/codywakeford/gourmai-mobile) 
+
 
 #### Veloris Dashboard | Nuxt, Typescript, Firebase, Stripe | [Repo](https://github.com/nova-on-git/site-template-dev-env) [Orginization all these repos are stored in](https://github.com/orgs/nova-on-git/repositories)
 This software is not completed, im not sure it ever will be. 
