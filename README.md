@@ -69,6 +69,12 @@ Though I did design this myself I have to give credits to the design of [The Web
 
 https://github.com/user-attachments/assets/292d90f9-a20a-494b-85f4-0d78fc8fd262
 
+#### Gourmai Landing Page | Nuxt, TypeScript, Firebase, Nitro, Figma | [Live Site](https://gourmai.co.uk) | [Repo](https://github.com/codywakeford/gourmai-landing)
+
+
+https://github.com/user-attachments/assets/dae3850d-5db8-485e-8151-c8fc99f2ea0c
+
+
 #### Skyguyard Roofing Website | Nuxt, TypeScript, Firebase, Nitro, Figma | [Live Site](https://skyguardroofing.co.uk/)
 
 https://github.com/user-attachments/assets/1bdd60fb-98da-4ad4-9385-5696ee26905c
