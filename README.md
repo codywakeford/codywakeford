@@ -63,7 +63,7 @@ I am still tidying up some of the math bugs I created with the optimisations.
 
 https://github.com/user-attachments/assets/b7a5ff3b-f380-456a-8f52-414fe087004c
 
-#### Freelancer Portfolio | Nuxt, TypeScript, Firebase, Nitro, Figma | [Live Site](https://codywakeford.com/)
+#### Freelancer Portfolio | Nuxt, TypeScript, Firebase, Nitro, Figma | [Live Site](https://codywakeford.com/) [Repo](https://github.com/codywakeford/codywakeford.com)
 My site I use as a freelance website developer. It is actually the third revamp of my portfolio. Unfortunatly I decided to delete the source for the old ones. 
 Though I did design this myself I have to give credits to the design of [The Website Architect](https://thewebsitearchitect.com/) whos website i drew a lot of inspiration from.
 
